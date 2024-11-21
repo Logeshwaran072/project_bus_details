@@ -54,8 +54,6 @@ myconnection.commit()
 df_data.to_csv("all_bus_details.csv", index = False)
 myconnection.close()
 
-df_data.dtypes
-
 
 
 
